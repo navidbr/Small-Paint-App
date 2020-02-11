@@ -1,0 +1,8 @@
+c:\users\navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\bin\Release\پروژه ترم دوم paint.exe
+c:\users\navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\bin\Release\پروژه ترم دوم paint.pdb
+c:\users\navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\obj\x86\Release\پروژه_ترم_دوم_paint.Form1.resources
+c:\users\navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\obj\x86\Release\پروژه_ترم_دوم_paint.Properties.Resources.resources
+c:\users\navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\obj\x86\Release\پروژه ترم دوم paint.csproj.GenerateResource.Cache
+c:\users\navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\obj\x86\Release\پروژه ترم دوم paint.exe
+c:\users\navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\obj\x86\Release\پروژه ترم دوم paint.pdb
+C:\Users\Navid\documents\visual studio 2010\Projects\c#\پروژه ترم دوم paint\پروژه ترم دوم paint\obj\x86\Release\پروژه ترم دوم paint.csprojResolveAssemblyReference.cache
